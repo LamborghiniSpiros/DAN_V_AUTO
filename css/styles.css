@@ -1,0 +1,24 @@
+
+body {
+  text-align: center;
+  background-color: yellow;
+  background-image: url("https://wallpaperaccess.com/full/124088.jpg");
+}
+h1{
+  color: white;
+  font-weight: bold;
+}
+h2 {
+  color: red;
+  font-family: sans-serif;
+}
+h3 {
+  color: red;
+}
+p {
+  color: white;
+}
+.top-container {
+  background-color: black;
+  padding: 30px;
+}
